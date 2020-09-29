@@ -1,0 +1,18 @@
+/* Fonts Used */
+/* 
+font-family: 'Open Sans', sans-serif;
+font-family: 'Lobster', cursive; */
+
+.body{
+    font-family: 'Open Sans', sans-serif;
+}
+
+h1{
+    font-family: 'Lobster', cursive; 
+}
+
+.navbar-brand{
+    font-family: 'Lobster', cursive; 
+}
+
+
