@@ -68,5 +68,19 @@ FOOTER Styling */
 
 #footer{
     background-color: rgb(255,255,255);
+    color: gray;
     height: 400px;
+}
+
+.contact{
+    font-size: 20pt;
+    text-transform: uppercase;
+}
+
+.social-container{
+    background-color: rgba(0, 128, 187, 0.4);
+}
+
+.fas{
+    color: white;
 }
