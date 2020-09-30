@@ -23,6 +23,7 @@ h1{
 .jumbotron{
     margin: 0px;
     color: white;
+    height: 800px;
     background-image: url(/img/Octo-2.jpg);
     background-attachment: fixed;
     background-position: center;
@@ -69,7 +70,7 @@ FOOTER Styling */
 #footer{
     background-color: rgb(255,255,255);
     color: gray;
-    height: 400px;
+    height: 300px;
 }
 
 .contact{
