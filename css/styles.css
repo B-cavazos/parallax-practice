@@ -7,6 +7,8 @@ font-family: 'Lobster', cursive; */
     font-family: 'Open Sans', sans-serif;
 }
 
+/* HEADER STYLING */
+
 h1{
     font-family: 'Lobster', cursive; 
 }
@@ -15,4 +17,53 @@ h1{
     font-family: 'Lobster', cursive; 
 }
 
+.jumbotron{
+    margin: 0px;
+    color: white;
+    background-image: url(/img/Octo-2.jpg);
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
 
+/* MAIN Styling */
+
+.parallax {
+    height: 800px;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+
+.parallax-text{
+    background-color: rgb(255,255,255,.6);
+  }
+
+#bg1{
+    background-image: url(/img/octo-1.jpg);
+}
+
+#bg2{
+    background-image: url(/img/nature-1.jpg);
+}
+
+#bg3{
+    background-image: url(/img/octo-2.jpg);
+}
+
+#bg4{
+    background-image: url("/img/nature-2.jpg");
+}
+
+#bg5{
+    background-image: url("/img/Octo-3.jpg");
+}
+/* 
+FOOTER Styling */
+
+#footer{
+    background-color: rgb(255,255,255);
+    height: 400px;
+}
