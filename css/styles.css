@@ -34,7 +34,7 @@ h1{
 /* MAIN Styling */
 
 .parallax {
-    height: 800px;
+    max-height: 800px;
     background-attachment: fixed;
     background-position: center;
     background-repeat: no-repeat;
